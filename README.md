@@ -12,7 +12,7 @@ Daily routine :coffee:,👩‍💻,🧘<br>
 <h3 align="center">✨ Tech Stack ✨ </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Javascript%20-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" href="https://developer.mozilla.org/ko/docs/Web/JavaScript"/>&nbsp;&nbsp;&nbsp;
+  <a href="href="https://developer.mozilla.org/ko/docs/Web/JavaScript"><img src="https://img.shields.io/badge/Javascript%20-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/React%20-61DAFB?&style=for-the-badge&logo=react&logoColor=white" href="https://ko.reactjs.org/" //>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Python%20-EB3C00.svg?&style=for-the-badge&logo=python&logoColor=white" href="https://www.python.org/"//>&nbsp;&nbsp;&nbsp;
 </p>
