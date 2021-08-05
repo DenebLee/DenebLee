@@ -5,7 +5,7 @@
 <h3 align="center"> 👋 Hi there</h3>
 <p align="center">
 I'm JeongseobLEE<br>
-A junior full-stack and Computer Vision developer. 🌱 <br>
+A junior full-stack and Computer Vision developer. � <br>
 Daily routine :coffee:,👩‍💻,🧘<br>
 🌱 I’m currently learning Tensorflow
 </p>
