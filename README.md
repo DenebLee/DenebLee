@@ -24,7 +24,6 @@ I❤️ code, Python, Js framework and anything **CREATIVE**✨
 
 ## 📘 Bio
 
-- 🏢 I'm currently working at **[The Matrix](https://www.m47rix.com)**
 - 🌍 Bloger [Deneb](https://velog.io/@lgsgst5613/?q=q)
 - ⚙️ I love to create Web 
 - 💬 I love to talking about solution business. Don't hesitate to contact me.
