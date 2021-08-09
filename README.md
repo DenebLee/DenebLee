@@ -24,7 +24,7 @@ I❤️ code, Python, Js framework and anything **CREATIVE**✨
 
 ## 📘 Bio
 
-- 🌍 Bloger [Deneb](https://velog.io/@lgsgst5613/?q=q)
+- 🌍 Bloger [Deneb](https://velog.io/@lgsgst5613/)
 - ⚙️ I love to create Web 
 - 💬 I love to talking about solution business. Don't hesitate to contact me.
 - 🌱 Learning developing hardwares and serial communication using Python
