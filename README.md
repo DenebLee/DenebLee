@@ -35,4 +35,4 @@ I❤️ code, Python, Js framework and anything **CREATIVE**✨<br>
 - 💬 I love to talking about solution business. Don't hesitate to contact me.
 - 🌱 Learning developing hardwares and serial communication using Python
 - 🎄 Woodworking beginner
-- 💻 Too much interest in electronics like Keyboard, Monitor and Apple product
+- 💻 Too much interest in electronics like Keyboard, Monitor and Apple product!
