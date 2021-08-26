@@ -13,7 +13,6 @@ I❤️ code, Python, Js framework and anything **CREATIVE**✨<br>
 - Machine Learning
 - Deep Learning
 - Image Processing
-- Data Science
 - Web developing
 - Real Time Object Detection
 - Create Desktop App use Electron-React
