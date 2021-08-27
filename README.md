@@ -32,6 +32,6 @@ I❤️ code, Python, Js framework and anything **CREATIVE**✨<br>
 - 🌍 Bloger [Deneb](https://velog.io/@lgsgst5613/)
 - ⚙️ I love to create Web 
 - 💬 I love to talking about solution business. Don't hesitate to contact me.
-- 🌱 Learning developing hardwares and serial communication using Python
-- 🎄 Woodworking beginner
+- 🌱 Learning developing hardwares and serial communication using Python.
+- 🚗 I like to drive without a specific destination.
 - 💻 Too much interest in electronics like Keyboard, Monitor and Apple product!
