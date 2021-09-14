@@ -10,9 +10,9 @@ I❤️ code, Python, Js framework and anything **CREATIVE**✨<br>
 
 ## <img src="https://i.pinimg.com/originals/dd/be/1f/ddbe1f911d676f198bdfc9b2346ac1e4.gif" width="35px"> Technologies I Love
 
-- Machine Learning!
-- Deep Learning!
-- Image Processing!
+- Machine Learning
+- Deep Learning
+- Image Processing
 - Web developing
 - Real Time Object Detection
 - Create Desktop App use Electron-React
