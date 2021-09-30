@@ -36,3 +36,4 @@ I❤️ code, Python, Js framework and anything **CREATIVE**✨<br>
 - 🌱 Learning developing hardwares and serial communication using Python.
 - 🚗 I like to drive without a specific destination.
 - 💻 Too much interest in electronics like Keyboard, Monitor and Apple product!
+- 🍗 Need meat for developing
