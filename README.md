@@ -18,7 +18,6 @@ I❤️ code, Python, Js framework and anything **CREATIVE**✨<br>
 - Real Time Object Detection
 - Create Desktop App use Electron-React
 - Use New FrameWork for my Toy Project 
-- I'm Interested in devops!
 - React is so fun to Create!
 
 ## <img src="https://t1.daumcdn.net/cfile/tistory/244A0F475830735605" width="35px"> Programming Languages & Platforms
