@@ -2,7 +2,7 @@
 
 
 
-I❤️ code, Python, Js framework and anything **CREATIVE**✨<br>
+I❤️ code, Python, Js framework, java and anything **CREATIVE**✨<br>
 
 
 
