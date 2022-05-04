@@ -15,6 +15,7 @@ I❤️ code, Python, Js framework, java and anything **CREATIVE**✨<br>
 - Deep Learning
 - Image Processing
 - Web developing
+- Java Student
 - Real Time Object Detection
 - Create Desktop App use Electron-React
 - Use New FrameWork for my Toy Project 
