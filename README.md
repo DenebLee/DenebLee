@@ -1,4 +1,5 @@
-# Hi there!   <img src="https://i.pinimg.com/originals/e2/b7/da/e2b7da6bc749ba2d7ebdfda28fac6009.gif" width="40px">   I'm DenebLee 
+# Hi there!      I'm DenebLee 
+<!-- <img src="https://i.pinimg.com/originals/e2/b7/da/e2b7da6bc749ba2d7ebdfda28fac6009.gif" width="40px"> -->
 
 
 
@@ -9,7 +10,8 @@ I❤️ code, Python, Js framework, java and anything **CREATIVE**✨<br>
 [![Gmail Badge](https://img.shields.io/badge/-lgsgst5613@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lgsgst5613@gmail.com)](mailto:lgsgst5613@gmail.com) <a href="https://www.instagram.com/zxcvbnmqrt/"><img src="http://img.shields.io/badge/-Instagram-E4405F.svg?style=flat-square&logo=instagram&logoColor=white&&locoColor=white"/></a> <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flgsgst5613&count_bg=%23C1357C&title_bg=%23AD2D2D&icon=spotlight.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 
-## <img src="https://i.pinimg.com/originals/dd/be/1f/ddbe1f911d676f198bdfc9b2346ac1e4.gif" width="35px"> Technologies I Love
+## Technologies I Love
+<!-- <img src="https://i.pinimg.com/originals/dd/be/1f/ddbe1f911d676f198bdfc9b2346ac1e4.gif" width="35px">  -->
 
 - Machine Learning
 - Deep Learning
@@ -28,7 +30,8 @@ I❤️ code, Python, Js framework, java and anything **CREATIVE**✨<br>
 [![DenebLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenebLee&theme=react&show_icons=true&hide=contribs,prs&cache_seconds=1800)](https://github.com/DenebLee)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deneblee&layout=compact&theme=dracula)](https://github.com/Deneblee)
 
-## <img src="https://mblogthumb-phinf.pstatic.net/20160804_209/rlqor6767_1470239181873Gao3p_GIF/2.gif?type=w800" width="35px"> Bio 
+##  Bio 
+<!-- <img src="https://mblogthumb-phinf.pstatic.net/20160804_209/rlqor6767_1470239181873Gao3p_GIF/2.gif?type=w800" width="35px"> -->
 
 - 🌍 Bloger [Deneb](https://velog.io/@lgsgst5613/)
 - 💬 I love to talking about solution business. Don't hesitate to contact me.
