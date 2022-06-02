@@ -1,9 +1,9 @@
-# Hi there!      I'm DenebLee 
+# Hi  I'm DenebLee 
 <!-- <img src="https://i.pinimg.com/originals/e2/b7/da/e2b7da6bc749ba2d7ebdfda28fac6009.gif" width="40px"> -->
 
 
 
-I❤️ code, Python, Js framework, java and anything **CREATIVE**✨<br>
+I enjoy Python, Js framework, java and anything **CREATIVE**<br>
 
 
 
