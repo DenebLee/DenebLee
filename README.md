@@ -15,10 +15,8 @@ I enjoy Python, Js framework, java and anything **CREATIVE**<br>
 
 - Machine Learning
 - Image Processing
-- Web developing
 - Java 
-- BackEnd framework
-- Create Desktop App use Electron-React
+- Server
 - Use New FrameWork for my Toy Project 
 
 ## <img src="https://t1.daumcdn.net/cfile/tistory/244A0F475830735605" width="35px"> Programming Languages & Platforms
